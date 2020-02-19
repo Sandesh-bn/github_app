@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.anchor {
+  display: inline-block;
+  width: 100px;
+  color: black;
+}
+
+.selected-link {
+  color: red;
+  font-weight: bold;
+}
+
+.github-links {
+  padding: 10px;
+}
+

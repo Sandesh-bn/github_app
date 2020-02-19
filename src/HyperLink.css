@@ -1,0 +1,14 @@
+.link {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.link img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.hyper-links {
+    padding: 40px;
+}
